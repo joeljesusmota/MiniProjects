@@ -1,0 +1,35 @@
+/*{
+    margin: 0;
+    padding: 0;
+}*/
+
+.btn{
+    width: 50;
+    height: 50;
+    font-size: 100;
+    margin: 2;
+    cursor: pointer;
+    background: rgb(80, 149, 123);
+    border: none;
+    color: white;
+}
+.txtview{
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+    border: none;
+    color:#607d8b;
+}
+
+.mn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.bg{
+    background: linear-gradient(to right,rgb(189, 62, 62), rgb(45, 45, 144));
+    height: 100%;
+}
