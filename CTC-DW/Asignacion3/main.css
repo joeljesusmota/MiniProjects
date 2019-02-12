@@ -2,7 +2,7 @@ body {
   margin:0px 180px 0px 160px;
 }
 
-.LogoAlineacion {
+.LogoAling {
   margin:0px 0px 0px 767px;
 }
 
@@ -17,6 +17,13 @@ h1, p, pre {
 }
 
 .a-none {
+  font-family: arial ;
   text-decoration: none;
   font-style: italic;
+}
+
+/* Inicio*/
+
+.tableBorder {
+  border-color: blue;
 }
