@@ -1,0 +1,22 @@
+body {
+  margin:0px 180px 0px 160px;
+}
+
+.LogoAlineacion {
+  margin:0px 0px 0px 767px;
+}
+
+.navbar {
+  background-color: #C1C1C1;
+}
+
+/* text */
+
+h1, p, pre {
+  font-family: arial ;
+}
+
+.a-none {
+  text-decoration: none;
+  font-style: italic;
+}
