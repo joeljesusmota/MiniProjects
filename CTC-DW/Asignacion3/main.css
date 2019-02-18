@@ -8,6 +8,9 @@ body {
 
 .navbar {
   background-color: #C1C1C1;
+  margin: 0px 0px 0px 167px;
+  font-size: 15px;
+  font-family: arial;
 }
 
 /* text */
