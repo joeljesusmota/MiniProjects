@@ -52,6 +52,21 @@ h1, p, pre {
   padding: 0px 60px 0px 60px;
 }
 
+.hc3{
+  font-family: calibri;
+  font-weight: bold;
+  font-size: 20px;
+
+  text-align: center;
+
+  color: white;
+  background: #7090da;
+  border: 1px solid black;
+  box-shadow: 1px 1px;
+
+  padding: 0px 60px 0px 60px;
+}
+
 .di{ /*DesestabilizarItalic*/
 font-style: italic;
 text-decoration: underline;
@@ -71,4 +86,8 @@ color: red;
 
 .td2 {
   border: 7px solid #EC7C30; 
+}
+
+.t3{ /*table3-comunicateconnosotros*/
+  border: 2px solid #4362a9;
 }
