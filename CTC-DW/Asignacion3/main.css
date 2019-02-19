@@ -67,6 +67,33 @@ h1, p, pre {
   padding: 0px 60px 0px 60px;
 }
 
+.hc4{
+  font-family: calibri;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+
+  text-align: center;
+
+  color: white;
+  background: black;
+
+  padding: 0px 60px 0px 60px;
+  margin: 0px 0px 0px 340px;
+
+}
+
+.tl1{ /*textLavel1*/
+  text-align: center;
+
+  color: white;
+  background: #7090da;
+  border: 1px solid black;
+  box-shadow: 1px 1px;
+
+  
+}
+
 .di{ /*DesestabilizarItalic*/
 font-style: italic;
 text-decoration: underline;
@@ -91,3 +118,26 @@ color: red;
 .t3{ /*table3-comunicateconnosotros*/
   border: 2px solid #4362a9;
 }
+
+.t4{/*table4-empleos*/
+  border: 2px solid;
+}
+
+/*background*/
+
+.bb{ /*backgroundBlue*/
+  background: #4d7fb9;
+  color: white;
+}
+
+.bg{ /*backgroundGray-empleos*/
+  background: #bbbbbb;
+  padding: 18px 60px 18px 60px;
+
+  font-style: italic;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+
+
