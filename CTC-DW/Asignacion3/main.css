@@ -8,9 +8,9 @@ body {
 
 .navbar {
   background-color: #C1C1C1;
-  margin: 0px 0px 0px 167px;
-  font-size: 15px;
-  font-family: arial;
+  margin: 0px 0px 0px 50px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 /* text */
@@ -19,14 +19,56 @@ h1, p, pre {
   font-family: arial ;
 }
 
-.a-none {
-  font-family: arial ;
-  text-decoration: none;
+.a-navbar {
+  font-family: calibri;
+  font-weight: bold;
   font-style: italic;
+  font-size: 20px;
+
+  text-decoration: none;
+  color: #4362a9;
 }
 
-/* Inicio*/
+.hc1{  /* HeaderCalibri1*/
+  font-family: calibri;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+}
 
-.tableBorder {
-  border-color: blue;
+.hc2{
+  font-family: calibri;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+
+  text-align: center;
+
+  background: #d6d6d6;
+  border: 1px solid black;
+  box-shadow: 1px 1px;
+
+  margin: 0px 0px 0px 340px;
+  padding: 0px 60px 0px 60px;
+}
+
+.di{ /*DesestabilizarItalic*/
+font-style: italic;
+text-decoration: underline;
+color: red;
+}
+
+/*Tables*/
+
+.t1 { /*table1-inicio*/
+  border: 3px solid #27448b;
+}
+
+.t2 { /*table2-nuestroscursos*/
+  border: 2px solid #EC7C30;
+  border-collapse: collapse;
+}
+
+.td2 {
+  border: 7px solid #EC7C30; 
 }
