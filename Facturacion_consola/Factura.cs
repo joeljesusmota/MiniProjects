@@ -1,3 +1,14 @@
+/*
+    Por mejorar!
+
+    Le falta:
+        1.Calculo del total
+        2.Limpiar registro txt
+        3.Buscador para el registro
+
+    Cambielo a su antojo
+*/
+
 using System;
 using System.IO;
 
